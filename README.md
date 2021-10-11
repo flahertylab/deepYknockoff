@@ -6,5 +6,4 @@ This is a collection of Python scripts for performing the proposed method **DNN-
 
 ## Reference
 
-Gene expression identification to multiple perturbations using knockoffs.
-
+Identification of Significant Gene Expression Changes in Multiple Perturbation Experiments using Knockoffs

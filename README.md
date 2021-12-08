@@ -25,8 +25,10 @@ We vary the key parameter values with different levels below in both linear and 
 | Sparsity level (t) in coefficients beta | 0.1, 0.3, 0.5, 0.7, 0.9 |
 
 By varying the key parameters and run demo.py in the linear setting, we show the results in the following figure under a linear setting. 
-![Power and FDR in Linear Settings](https://github.com/flahertylab/deepYknockoff/blob/master/figs/linear_power_combine.pdf)
+In our paper, we also explore nonlinear settings. 
+
+![Power and FDR in Linear Settings](https://github.com/flahertylab/deepYknockoff/blob/master/figs/linear_power_combine.png)
 
 ## Reference
 
-Identification of Significant Gene Expression Changes in Multiple Perturbation Experiments using Knockoffs
+[Identification of Significant Gene Expression Changes in Multiple Perturbation Experiments using Knockoffs](https://www.biorxiv.org/content/10.1101/2021.10.18.464822v1.full.pdf)

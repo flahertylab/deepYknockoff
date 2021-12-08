@@ -5,7 +5,7 @@ This is a collection of Python scripts for performing the proposed method **DNN-
 * demo_code.py contains code for implementing the method on simulated data.
 
 
-![Power and FDR in Linear Settings](https://github.com/flahertylab/deepYknockoff/blob/master/figs/linear_power_combine.pdf =250x)
+![Power and FDR in Linear Settings](https://github.com/flahertylab/deepYknockoff/blob/master/figs/linear_power_combine.pdf)
 
 ## Reference
 
